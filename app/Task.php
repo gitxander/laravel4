@@ -14,6 +14,6 @@ class Task extends Model
     }
     
     public function ram(){
-         
+        return true;
     }
 }
