@@ -9,7 +9,8 @@
 
                 <div class="panel-body">
                     Your Application's Landing Page. ULOL ram
-                    <p>Ho, hey! :)</p>
+                    <p>Ho, hey! :) :-P</p>
+
                 </div>
             </div>
         </div>
