@@ -8,7 +8,7 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    Your Application's Landing Page. ULOL
+                    Your Application's Landing Page. ULOL ram
                     <p>Ho, hey! :)</p>
                 </div>
             </div>
