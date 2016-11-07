@@ -9,6 +9,7 @@
 
                 <div class="panel-body">
                     Your Application's Landing Page. ULOL
+                    <p>Ho, hey!</p>
                 </div>
             </div>
         </div>
